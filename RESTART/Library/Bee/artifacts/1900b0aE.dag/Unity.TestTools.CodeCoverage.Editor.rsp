@@ -118,6 +118,7 @@
 -define:CONDITIONAL_IGNORE_SUPPORTED
 -define:TEST_FRAMEWORK_1_1_18_OR_NEWER
 -define:NO_COV_EDITORPREF
+-define:TEST_FRAMEWORK_1_2_OR_NEWER
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.11f1/Editor/Data/Managed/UnityEditor.Graphs.dll"
@@ -330,7 +331,7 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.11f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Transactions.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.11f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.11f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.Linq.dll"
--r:"C:/Users/Saraid/Local_Documents/RAD/RESTART game folder/RESTART/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
+-r:"C:/Users/Saraid/Local_Documents/RAD/RESTART game folder/RESTART/Library/PackageCache/com.unity.ext.nunit@2.0.3/net40/unity-custom/nunit.framework.dll"
 -r:"C:/Users/Saraid/Local_Documents/RAD/RESTART game folder/RESTART/Library/PackageCache/com.unity.testtools.codecoverage@1.0.1/lib/ReportGenerator/ReportGeneratorMerged.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.ref.dll"
@@ -339,6 +340,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+-analyzer:"Library/PackageCache/com.unity.ext.nunit@2.0.3/net40/unity-custom/nunit.framework.dll"
 "Library/PackageCache/com.unity.testtools.codecoverage@1.0.1/Editor/Analytics/CoverageAnalytics.cs"
 "Library/PackageCache/com.unity.testtools.codecoverage@1.0.1/Editor/Analytics/CoverageAnalyticsEnums.cs"
 "Library/PackageCache/com.unity.testtools.codecoverage@1.0.1/Editor/Analytics/CoverageAnalyticsEvent.cs"

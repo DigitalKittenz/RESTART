@@ -1,0 +1,5 @@
+populated the restart project with assets and prefabs.
+
+Completed all tutorials on the unity hub learn.
+
+made a new project called 3d essentials as part of a unity learn course.
