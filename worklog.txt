@@ -1,9 +1,6 @@
-I added music that plays when the game is played. 
+created brand new prefabs from inside unity.
 
-I added rigidbodies to gameobjects made from primitives.
+changed the material on some of them, and changed the sizing on some of them. 
 
-I made my own material: purple I made myself using albedo properties, and made one from a png image I downloaded from the internet. 
-
-I added materials to the scene. 
-
-I added a physic material to a ball.
+made variants of prefabs. --- colour purple, different sizes. 
+also made another purple material.
