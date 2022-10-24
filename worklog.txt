@@ -1,2 +1,9 @@
-Made an obstacle course using primitives. 
-Made some objects children of others.
+I added music that plays when the game is played. 
+
+I added rigidbodies to gameobjects made from primitives.
+
+I made my own material: purple I made myself using albedo properties, and made one from a png image I downloaded from the internet. 
+
+I added materials to the scene. 
+
+I added a physic material to a ball.
