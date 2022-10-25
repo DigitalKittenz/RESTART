@@ -1,6 +1,1 @@
-created brand new prefabs from inside unity.
-
-changed the material on some of them, and changed the sizing on some of them. 
-
-made variants of prefabs. --- colour purple, different sizes. 
-also made another purple material.
+ball now moves with: up down left right and space. 
