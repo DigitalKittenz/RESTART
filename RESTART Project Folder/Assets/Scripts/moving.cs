@@ -5,33 +5,35 @@ using UnityEngine;
 [RequireComponent(typeof(Rigidbody))]
 
 public class moving : MonoBehaviour
+    //REMEMBER: name must match the name of this file
 {
 
     public float xForce = 11.0f;
     public float zForce = 11.0f;
     public float yForce = 450.0f;
 
-    //use this for initialization  
-
     void Start()
     {
-
+        //runs once at start of game
     }
     //Update is called once per frame  
     void Update()
+        //update runs for every frame
     {
         //x-axis / south movement
 
         float x = 0.0f;
         if (Input.GetKey(KeyCode.DownArrow))
         {
-            x = x - xForce;
+            //THIS IS THE EXACT SAME AS X = X - XFORCE!
+            x -= xForce;
         }
         //north movement
 
         if (Input.GetKey(KeyCode.UpArrow))
         {
-            x = x + xForce;
+            //or  x = x + xForce;
+            x += xForce;
         }
 
         //z axis / right movement
@@ -39,12 +41,14 @@ public class moving : MonoBehaviour
         float z = 0.0f;
         if (Input.GetKey(KeyCode.RightArrow))
         {
-            z = z - zForce;
+            //or z = z - zForce;
+            z -= zForce;
         }
         //moving left
         if (Input.GetKey(KeyCode.LeftArrow))
         {
-            z = z + zForce;
+            // or z = z +
+            z += zForce;
         }
         //z-axis jumping.
 

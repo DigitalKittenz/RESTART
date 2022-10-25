@@ -1,1 +1,10 @@
 ball now moves with: up down left right and space. 
+edited the movement script to change from x = x + y to x+=y etc.,
+
+Added a script that says hi to Rob.
+
+
+found out reason why objects (the 3d models I downloaded from the internet - the ufo) fall through floor: I need a mesh collider with an object added inside the mesh, and I needed to click on 'convex'. 
+
+made a new material. 
+
