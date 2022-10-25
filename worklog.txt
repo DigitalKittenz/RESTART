@@ -1,10 +1,9 @@
-ball now moves with: up down left right and space. 
-edited the movement script to change from x = x + y to x+=y etc.,
+one of my imported ufo models had an issue: too many polygons. This was fixed by using a box collider and making a brand new mesh for it.
 
-Added a script that says hi to Rob.
+added 2 scripts: one rotates things (rotateStuff) and the other moves things. (moveStuff). 
 
+I used the movestuff to make 2 ufos fly up. 
 
-found out reason why objects (the 3d models I downloaded from the internet - the ufo) fall through floor: I need a mesh collider with an object added inside the mesh, and I needed to click on 'convex'. 
+I made a platform spin around - one floating one and the main one. 
 
-made a new material. 
-
+made a script to follow the ball.
