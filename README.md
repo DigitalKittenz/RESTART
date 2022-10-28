@@ -1,13 +1,11 @@
-# RESTART-folder
+# My Unity Project.
  
-I didn't like my original project so I restarted it. This is my new game. It's part of a RAD module.
+**Part of a RAD module**
 
-*********************************************************************I M P O R T A N T !!!!!!*****************************************************************************
+The controls for the game are: LEFT, RIGHT, UP, DOWN arrows. Space makes you jump while simultaneously shooting prefabs. The aim of the game is to navigate through the obstacle course. 
 
-
-
-***Since Unity creates long file names use the following command in Git Bash:
-$ git config --global core.longpaths true
+<sub>Since Unity creates long file names use the following command in Git Bash:
+$ git config --global core.longpaths true</sub>
 
 
 
