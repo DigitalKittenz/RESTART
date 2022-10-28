@@ -1,9 +1,3 @@
-one of my imported ufo models had an issue: too many polygons. This was fixed by using a box collider and making a brand new mesh for it.
+made it so the ball can now shoot items when pressing the spacebar.
 
-added 2 scripts: one rotates things (rotateStuff) and the other moves things. (moveStuff). 
-
-I used the movestuff to make 2 ufos fly up. 
-
-I made a platform spin around - one floating one and the main one. 
-
-made a script to follow the ball.
+made a script so things get destroyed when hit.
